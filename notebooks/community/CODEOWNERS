@@ -48,6 +48,7 @@
 /notebooks/community/feature_store/get_started_vertex_feature_store.ipynb @junkourata
 /notebooks/community/model_garden/model_garden_codegemma_deployment_on_vertex.ipynb @minwoo33park
 /notebooks/community/model_garden/model_garden_e5.ipynb @pouiscakes
+/notebooks/community/model_garden/model_garden_finetuning_tutorial.ipynb @minwoo33park
 /notebooks/community/model_garden/model_garden_huggingface_local_inference.ipynb @dstnluong-google
 /notebooks/community/model_garden/model_garden_jax_paligemma_deployment.ipynb @minwoo33park
 /notebooks/community/model_garden/model_garden_jax_paligemma_finetuning.ipynb @minwoo33park
